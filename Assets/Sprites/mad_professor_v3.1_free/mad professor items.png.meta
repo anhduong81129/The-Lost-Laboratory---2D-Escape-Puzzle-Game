@@ -1,0 +1,1144 @@
+fileFormatVersion: 2
+guid: 7269bc2d1862b644899c1e48060d653c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4115516085411150713
+    second: mad professor items_0
+  - first:
+      213: 7904264588009975136
+    second: mad professor items_1
+  - first:
+      213: 5137633712103148086
+    second: mad professor items_2
+  - first:
+      213: 6250265438799888625
+    second: mad professor items_3
+  - first:
+      213: 4523683147091551374
+    second: mad professor items_4
+  - first:
+      213: 4573648150947712041
+    second: mad professor items_5
+  - first:
+      213: 8336850319972062940
+    second: mad professor items_6
+  - first:
+      213: -1078972872419152506
+    second: mad professor items_7
+  - first:
+      213: 7489155921506682880
+    second: mad professor items_8
+  - first:
+      213: -3611302664792519554
+    second: mad professor items_9
+  - first:
+      213: -3630941718348279960
+    second: mad professor items_10
+  - first:
+      213: 8219872506040977762
+    second: mad professor items_11
+  - first:
+      213: 5053335535565952906
+    second: mad professor items_12
+  - first:
+      213: -515377637457817511
+    second: mad professor items_13
+  - first:
+      213: 1900812518128600803
+    second: mad professor items_14
+  - first:
+      213: 6646264069933058136
+    second: mad professor items_15
+  - first:
+      213: -4448842764892778938
+    second: mad professor items_16
+  - first:
+      213: -7345569779706361026
+    second: mad professor items_17
+  - first:
+      213: 1241154211332854209
+    second: mad professor items_18
+  - first:
+      213: -1330952199850920709
+    second: mad professor items_19
+  - first:
+      213: -1920431610199037561
+    second: mad professor items_20
+  - first:
+      213: -7632557991006709693
+    second: mad professor items_21
+  - first:
+      213: 3254999815707611878
+    second: mad professor items_22
+  - first:
+      213: -8328211021201155187
+    second: mad professor items_23
+  - first:
+      213: 2597504853280106548
+    second: mad professor items_24
+  - first:
+      213: 1169631125554245791
+    second: mad professor items_25
+  - first:
+      213: -4649317524063136815
+    second: mad professor items_26
+  - first:
+      213: 3145613187369144342
+    second: mad professor items_27
+  - first:
+      213: -831677371161205103
+    second: mad professor items_28
+  - first:
+      213: -8754508816430543581
+    second: mad professor items_29
+  - first:
+      213: -1379732248126910783
+    second: mad professor items_30
+  - first:
+      213: 2875281914844777675
+    second: mad professor items_31
+  - first:
+      213: -6657829752632854038
+    second: mad professor items_32
+  - first:
+      213: -5194246609946961440
+    second: mad professor items_33
+  - first:
+      213: 7076142562881889270
+    second: mad professor items_34
+  - first:
+      213: -2309739487550872976
+    second: mad professor items_35
+  - first:
+      213: -4376199880761274662
+    second: mad professor items_36
+  - first:
+      213: -4213187005922695457
+    second: mad professor items_37
+  - first:
+      213: -496189372508038676
+    second: mad professor items_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mad professor items_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 67
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78489addcefb2e6c0800000000000000
+      internalID: -4115516085411150713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mad professor items_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 67
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06da803a3c691bd60800000000000000
+      internalID: 7904264588009975136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mad professor items_2
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 67
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63acafb04aa8c4740800000000000000
+      internalID: 5137633712103148086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mad professor items_3
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 67
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f0819f1d476db650800000000000000
+      internalID: 6250265438799888625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mad professor items_4
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 66
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8420d2dad957ce30800000000000000
+      internalID: 4523683147091551374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mad professor items_5
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 66
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92c4cd4d2ccd87f30800000000000000
+      internalID: 4573648150947712041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mad professor items_6
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 65
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd6598b023172b370800000000000000
+      internalID: 8336850319972062940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mad professor items_7
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 67
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d6c21a3e7b601f0800000000000000
+      internalID: -1078972872419152506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mad professor items_8
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 65
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0084be0a1a3dee760800000000000000
+      internalID: 7489155921506682880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mad professor items_9
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 66
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7cce902c5312edc0800000000000000
+      internalID: -3611302664792519554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mad professor items_10
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 66
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f44b5aebd4c9dc0800000000000000
+      internalID: -3630941718348279960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mad professor items_11
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 65
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26982955e7ad21270800000000000000
+      internalID: 8219872506040977762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mad professor items_12
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 45
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a87544855ed012640800000000000000
+      internalID: 5053335535565952906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mad professor items_13
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 45
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9509522f4c209d8f0800000000000000
+      internalID: -515377637457817511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mad professor items_14
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 45
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e6cbaf0aea016a10800000000000000
+      internalID: 1900812518128600803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mad professor items_15
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 45
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8584dcb45f54c3c50800000000000000
+      internalID: 6646264069933058136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mad professor items_16
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 44
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ecff883198242c0800000000000000
+      internalID: -4448842764892778938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mad professor items_17
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 44
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b02cf243b4f0a90800000000000000
+      internalID: -7345569779706361026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mad professor items_18
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 43
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c199f5ed27793110800000000000000
+      internalID: 1241154211332854209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mad professor items_19
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 45
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf47cd2a602878de0800000000000000
+      internalID: -1330952199850920709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mad professor items_20
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 43
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 789a7aa10a14955e0800000000000000
+      internalID: -1920431610199037561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mad professor items_21
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 21
+        width: 16
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 348d97a32f4b31690800000000000000
+      internalID: -7632557991006709693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mad professor items_22
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 44
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e2d63f26151c2d20800000000000000
+      internalID: 3254999815707611878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mad professor items_23
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 21
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8bdfc273304c6c80800000000000000
+      internalID: -8328211021201155187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mad professor items_24
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 43
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4382d12e6e03c0420800000000000000
+      internalID: 2597504853280106548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mad professor items_25
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 21
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f90b6eccf4d5b3010800000000000000
+      internalID: 1169631125554245791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mad professor items_26
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 21
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d3d732585e4a7fb0800000000000000
+      internalID: -4649317524063136815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mad professor items_27
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 21
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6101ce9178677ab20800000000000000
+      internalID: 3145613187369144342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mad professor items_28
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 21
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 196a43c56d94574f0800000000000000
+      internalID: -831677371161205103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mad professor items_29
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 21
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32dc1a56d9cb18680800000000000000
+      internalID: -8754508816430543581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mad professor items_30
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 22
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce8e3994d43adce0800000000000000
+      internalID: -1379732248126910783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mad professor items_31
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 21
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc8d6beaad07e720800000000000000
+      internalID: 2875281914844777675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mad professor items_32
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 21
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae9ba4b5d13aa93a0800000000000000
+      internalID: -6657829752632854038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mad professor items_33
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 21
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e995528a345ae7b0800000000000000
+      internalID: -5194246609946961440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mad professor items_34
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 0
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f3e8908b22833260800000000000000
+      internalID: 7076142562881889270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mad professor items_35
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 21
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07266d07c2822ffd0800000000000000
+      internalID: -2309739487550872976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mad professor items_36
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 0
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade0e11056d9443c0800000000000000
+      internalID: -4376199880761274662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mad professor items_37
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 0
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd6afa39db0c785c0800000000000000
+      internalID: -4213187005922695457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mad professor items_38
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 0
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce99556056e2d19f0800000000000000
+      internalID: -496189372508038676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      mad professor items_0: -4115516085411150713
+      mad professor items_1: 7904264588009975136
+      mad professor items_10: -3630941718348279960
+      mad professor items_11: 8219872506040977762
+      mad professor items_12: 5053335535565952906
+      mad professor items_13: -515377637457817511
+      mad professor items_14: 1900812518128600803
+      mad professor items_15: 6646264069933058136
+      mad professor items_16: -4448842764892778938
+      mad professor items_17: -7345569779706361026
+      mad professor items_18: 1241154211332854209
+      mad professor items_19: -1330952199850920709
+      mad professor items_2: 5137633712103148086
+      mad professor items_20: -1920431610199037561
+      mad professor items_21: -7632557991006709693
+      mad professor items_22: 3254999815707611878
+      mad professor items_23: -8328211021201155187
+      mad professor items_24: 2597504853280106548
+      mad professor items_25: 1169631125554245791
+      mad professor items_26: -4649317524063136815
+      mad professor items_27: 3145613187369144342
+      mad professor items_28: -831677371161205103
+      mad professor items_29: -8754508816430543581
+      mad professor items_3: 6250265438799888625
+      mad professor items_30: -1379732248126910783
+      mad professor items_31: 2875281914844777675
+      mad professor items_32: -6657829752632854038
+      mad professor items_33: -5194246609946961440
+      mad professor items_34: 7076142562881889270
+      mad professor items_35: -2309739487550872976
+      mad professor items_36: -4376199880761274662
+      mad professor items_37: -4213187005922695457
+      mad professor items_38: -496189372508038676
+      mad professor items_4: 4523683147091551374
+      mad professor items_5: 4573648150947712041
+      mad professor items_6: 8336850319972062940
+      mad professor items_7: -1078972872419152506
+      mad professor items_8: 7489155921506682880
+      mad professor items_9: -3611302664792519554
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
